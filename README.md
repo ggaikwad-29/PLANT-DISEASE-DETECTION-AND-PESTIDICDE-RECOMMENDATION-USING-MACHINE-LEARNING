@@ -1,0 +1,2 @@
+# PLANT-DISEASE-DETECTION-AND-PESTIDICDE-RECOMMENDATION-USING-MACHINE-LEARNING
+Develop CNN based version to design and develop a sturdy and correct CNN version mainly tailored for crop ailment detection. Achieve high detection accuracy. The objective is to achieve excessive accuracy in detecting crop diseases and providing customized treatment recommendations and personalized therapy tips based at the recognized disease.
